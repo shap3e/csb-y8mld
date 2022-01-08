@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shap3e.github.io/csb-y8mld/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://shap3e.github.io/csb-y8mld/static/js/main.b288b62c.chunk.js",
+    "main.js.map": "https://shap3e.github.io/csb-y8mld/static/js/main.b288b62c.chunk.js.map",
+    "runtime-main.js": "https://shap3e.github.io/csb-y8mld/static/js/runtime-main.0ed6c7d3.js",
+    "runtime-main.js.map": "https://shap3e.github.io/csb-y8mld/static/js/runtime-main.0ed6c7d3.js.map",
+    "static/js/2.ddce9bf0.chunk.js": "https://shap3e.github.io/csb-y8mld/static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.ddce9bf0.chunk.js.map": "https://shap3e.github.io/csb-y8mld/static/js/2.ddce9bf0.chunk.js.map",
+    "index.html": "https://shap3e.github.io/csb-y8mld/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://shap3e.github.io/csb-y8mld/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://shap3e.github.io/csb-y8mld/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ed6c7d3.js",
+    "static/js/2.ddce9bf0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b288b62c.chunk.js"
+  ]
+}
